@@ -17,3 +17,9 @@ When the password is generated,
 it is written to the page.
 
 ##Deployed URL
+https://akecs512.github.io/Password-Generator-Challenge/
+
+<img width="866" alt="Screen Shot 2023-06-25 at 7 18 18 PM" src="https://github.com/akecs512/Password-Generator-Challenge/assets/79340489/e5172596-cb6f-4a40-b2d2-9267b80e4a01">
+<img width="929" alt="Screen Shot 2023-06-25 at 7 18 33 PM" src="https://github.com/akecs512/Password-Generator-Challenge/assets/79340489/80ed44ae-4127-4756-b273-3687c363e6fa">
+
+
