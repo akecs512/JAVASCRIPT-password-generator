@@ -19,7 +19,7 @@ When the password is generated,
 it is written to the page.
 
 ## Deployed URL
-https://akecs512.github.io/Password-Generator-Challenge/
+ https://akecs512.github.io/JAVASCRIPT-password-generator/
 
 ## Screenshots
 
